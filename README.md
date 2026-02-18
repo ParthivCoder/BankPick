@@ -1,3 +1,5 @@
+![image alt](https://github.com/ParthivCoder/BankPick/blob/master/assets/images/appimage.png)
+
 🚀 Overview
 Bankpick is a comprehensive mobile banking solution designed to provide a seamless user experience for managing personal finances. 
 This project leverages the versatility of Flutter to deliver a high-performance, cross-platform application featuring both Light and Dark mode aesthetics.
