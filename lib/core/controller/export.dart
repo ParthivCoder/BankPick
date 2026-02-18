@@ -1,0 +1,12 @@
+export 'home_controller.dart';
+export 'onbording_controller.dart';
+export 'sign_in_controller.dart';
+export 'sign_up_controller.dart';
+export 'package:bankpick/export.dart';
+export 'search_controller.dart';
+export 'setting_controller.dart';
+export 'transaction_controller.dart';
+export 'statistics_controller.dart';
+export 'mycard_controller.dart';
+export 'requestmoney_controller.dart';
+export 'dashboard_controller.dart';
