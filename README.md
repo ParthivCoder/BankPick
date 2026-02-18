@@ -1,6 +1,5 @@
-Bankpick:-
-
-A modern, high-fidelity Banking and Financial Management application built with Flutter.
+🏦 Bankpick
+A premium, high-fidelity Banking & Financial Management application built with Flutter.
 
 ![image alt](https://github.com/ParthivCoder/BankPick/blob/master/assets/images/appimage.png)
 
