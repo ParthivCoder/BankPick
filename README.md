@@ -6,7 +6,7 @@ This project leverages the versatility of Flutter to deliver a high-performance,
 
 🎨 Design Assets
 The user interface is based on a premium UI Kit:
-Figma UI Template: [Free Banking Mobile App UI Kit](https://gemini.google.com/)
+Figma UI Template: [Free Banking Mobile App UI Kit](https://www.figma.com/design/CKIs5fFn9soT2pWEV38rJW/Free-Banking-Mobile-App-Ui-Kit-With-light---Dark-Mode-High-Quality-Ui-43--Screen-template?t=lHGcFbcO53NNcLuS-0)
 Screens: Includes 40+ high-quality screens ranging from onboarding to advanced transaction history.
 
 ✨ Key Features
