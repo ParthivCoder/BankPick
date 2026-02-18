@@ -6,7 +6,7 @@ A new Bank Flutter project.
 
 This project is a starting point for a Flutter application.
 
-assets/images/appimage.png
+[assets/images/appimage.png](https://github.com/ParthivCoder/BankPick/blob/master/assets/images/appimage.png)
 
 A few resources to get you started if this is your first Flutter project:
 
