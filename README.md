@@ -1,6 +1,6 @@
-# bankpick
+# Bankpick
 
-A new Flutter project.
+A new Bank Flutter project.
 
 ## Getting Started
 
