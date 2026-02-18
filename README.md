@@ -1,21 +1,52 @@
-# Bankpick
+🚀 Overview
+Bankpick is a comprehensive mobile banking solution designed to provide a seamless user experience for managing personal finances. 
+This project leverages the versatility of Flutter to deliver a high-performance, cross-platform application featuring both Light and Dark mode aesthetics.
 
-A new Bank Flutter project.
+🎨 Design Assets
+The user interface is based on a premium UI Kit:
+Figma Template: Free Banking Mobile App UI Kit
+Screens: Includes 40+ high-quality screens ranging from onboarding to advanced transaction history.
 
-## Getting Started
+✨ Key Features
+Dual Theme Support: Fully integrated Light and Dark modes.
+Secure Authentication: Streamlined login and registration flows.
+Transaction Management: Real-time tracking of expenses and income.
+Card Management: Interactive UI for virtual and physical card controls.
+Modern Architecture: Built using clean code principles for scalability.
 
-This project is a starting point for a Flutter application.
+🛠️ Tech Stack
+Framework: Flutter
+Language: Dart
+State Management: (e.g., Provider, Riverpod, or Bloc — specify yours here)
+Icons/Assets: Custom SVG integration for crisp visuals.
 
-# Figma Ui Template Link--> https://www.figma.com/design/CKIs5fFn9soT2pWEV38rJW/Free-Banking-Mobile-App-Ui-Kit-With-light---Dark-Mode-High-Quality-Ui-43--Screen-template?node-id=1-4&t=8wKIKWdi0vfzqHM1-1
+📥 Getting Started
+Prerequisites
+Flutter SDK (Latest Stable Version)
+Android Studio / VS Code
+Dart SDK
+Installation
+Clone the repository:
 
-![image alt](https://github.com/ParthivCoder/BankPick/blob/master/assets/images/appimage.png)
+Bash
+git clone https://github.com/ParthivCoder/BankPick.git
+Navigate to the project directory:
 
-A few resources to get you started if this is your first Flutter project:
+Bash
+cd BankPick
+Install dependencies:
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+Bash
+flutter pub get
+Run the application:
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Bash
+flutter run
+📖 Resources
+If you are new to Flutter, these resources will help you navigate the project:
+
+Flutter Documentation - Comprehensive guides and API references.
+
+Codelabs - Hands-on experience with Flutter basics.
+
+Architecture Best Practices - Tips for high-performance apps.
